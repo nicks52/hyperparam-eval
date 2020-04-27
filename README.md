@@ -1,4 +1,4 @@
-# Evaluation of Hyperparameters and Model Structure and CNNs
+# Evaluation of Hyperparameters and Model Structure in CNNs
 ### By Nick Serger
 
 Evaluating hyperparameters and model structure by building several CNN models to classify the CIFAR10 datasets using keras and tensorflow.
