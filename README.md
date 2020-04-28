@@ -5,3 +5,4 @@ Evaluating hyperparameters and model structure by building several CNN models to
 
 This evaluation was started as the final project for George Mason University's ECE 527: Learning From Data (Machine Learning) Final Project and was further expanded to evaluate the hyperparameters in greater detail.
 
+In the event that the Jupyter notebook does not open in GitHub, you can view a static copy in the "CNN_eval.html" file.
